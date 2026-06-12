@@ -1,1 +1,6 @@
 .env
+credentials.json
+token.json
+briefing.log
+morning_briefing.html
+venv/
